@@ -26,7 +26,7 @@ O projeto possui 13 classes:
 
 O próximo nível é carregado. Os métodos importantes são PlatformerGame.LoadContent e PlatformerGame.LoadNextLevel.
 
-O jogo é actualizado utilizando PlatformerGame.Update e Level.Update. Se o jogador estiver morto ou se o tempo acabar, os inputs são ignorados e o jogo fica num estado de pausa. Se o jogador tiver chegado ao final (exit), o tempo restante é convertido em pontos. Se ainda houver tempo e o jogador não tiver chegado ao local final, o tempo restante é diminuído e todos os objectos do nível são actualizados (personagem do jogador, inimigos, pedras preciosas, etc.) utilizando os seus métodos Update. Neste momento, também é verificado se o jogador chegou à final e se caiu da borda do ecrã.
+O jogo é atualizado utilizando PlatformerGame.Update e Level.Update. Se o jogador estiver morto ou se o tempo acabar, os inputs são ignorados e o jogo fica num estado de pausa. Se o jogador tiver chegado ao final (exit), o tempo restante é convertido em pontos. Se ainda houver tempo e o jogador não tiver chegado ao local final, o tempo restante é diminuído e todos os objectos do nível são actualizados (personagem do jogador, inimigos, pedras preciosas, etc.) utilizando os seus métodos Update. Neste momento, também é verificado se o jogador chegou à final e se caiu da borda do ecrã.
 
 O ecrã de jogo é desenhado utilizando o método PlatformerGame.Draw. Este método, por sua vez, chama Level.Draw e PlatformerGame.DrawHud.
 O método Level.Draw é responsável por desenhar os tiles, a personagem do jogador, as pedras preciosas e os inimigos, através de chamadas ao método Draw de cada um dos objectos de jogo mencionados anteriormente.
