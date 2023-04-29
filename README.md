@@ -1,11 +1,11 @@
 # TDVProjeto1
 
-## Grupo
+# Grupo
 Filipe Araújo 25981
 
 Pedro Rodrigues 25982
 
-## Estrutura
+# Estrutura
 O projeto possui 13 classes:
 
 * PlatformerGame.cs (classe principal)
@@ -22,7 +22,7 @@ O projeto possui 13 classes:
 * Animation.cs
 * Accelerometer.cs
 
-## Funcionamento
+# Funcionamento
 
 O próximo nível é carregado. Os métodos importantes são PlatformerGame.LoadContent e PlatformerGame.LoadNextLevel.
 
@@ -31,8 +31,11 @@ O jogo é actualizado utilizando PlatformerGame.Update e Level.Update. Se o joga
 O ecrã de jogo é desenhado utilizando o método PlatformerGame.Draw. Este método, por sua vez, chama Level.Draw e PlatformerGame.DrawHud.
 O método Level.Draw é responsável por desenhar os tiles, a personagem do jogador, as pedras preciosas e os inimigos, através de chamadas ao método Draw de cada um dos objectos de jogo mencionados anteriormente.
 
-## Aprofundamento de algumas classe:
-### PlatformerGame.cs
+# Aprofundamento de algumas classe:
+
+Examinar alguns métodos presentes nas classes
+
+## PlatformerGame.cs
 
 Este é a classe principal do jogo
 
@@ -46,7 +49,7 @@ O método Draw desenha o jogo desde do fundo até ao primeiro plano.
 
 O método DrawHud desenha o HUD, onde está incluido, por exemplo, o tempo de jogo e a pontuação.
 
-### Player.cs
+## Player.cs
 
 Classe responsável pelo personagem do jogo. Nesta classe trata-se do movimento do jogador (horizontal, vertical, se está no ar, etc.), da hitbox, das animações do personagem, das físicas (ex: cair, saltar)
 
@@ -59,7 +62,9 @@ O método GetInput obtém os comandos de movimento horizontal e de salto do joga
 
 O método LoadContent carrega o sprite sheet e os sons do personagem.
 
-### Enemy.cs
+O método OnKilled chamado quando o jogador foi morto. Este parâmetro é nulo se o jogador não for morto por um inimigo (caiu num buraco).
+
+## Enemy.cs
 
 Classe responsável pelo inimigo presente no nível 2
 
@@ -69,7 +74,7 @@ O método Draw desenha o inimigo.
 
 O método Update é responsáel pelo movimento do inimigo, que caminha para trás e para a frente ao longo de uma plataforma, esperando em cada extremidade.
 
-### Gem.cs
+## Gem.cs
 
 Classe responsável pelas joias que podemos apanhar durante o jogo (aumentam o score).
 
@@ -79,7 +84,7 @@ O método OnCollected é chamado quando uma jóia é recolhida pelo jogador e re
 
 O método Draw desenha a joia com a cor apropriada.
 
-### Level.cs
+## Level.cs
 
 Classe responsável por desenhar os niveis
 
@@ -102,4 +107,9 @@ O método Update atualiza todos os objectos no mundo, executa a colisão entre e
 
 O método UpdateGems anima cada jóia e verifica se o jogador pode recolhê-las.
 
-O método UpdateEnemies Anima cada inimigo e permite-lhes matar o jogador.
+O método UpdateEnemies anima cada inimigo e permite-lhes matar o jogador.
+
+O método OnExitReached é chamado quando o jogador chega à saída do nível.
+
+O método DrawTiles desenha cada tile do nível.
+
