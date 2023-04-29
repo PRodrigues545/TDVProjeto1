@@ -40,6 +40,14 @@ O método LoadContent será chamado uma vez por jogo e é o local que carrega to
 
 O método Update permite que o jogo execute a lógica como atualizar o mundo, verificação de colisões, recolha de dados e reprodução de áudio
 
+O método HandleInput trata do controlo do teclado, como por exemplo, saber se alguma tecla esta a ser clicada ou não.
+
 O método Draw desenha o jogo desde do fundo até ao primeiro plano.
 
 O método DrawHud desenha o HUD, onde está incluido, por exemplo, o tempo de jogo e a pontuação.
+
+### Player.cs
+
+Classe responsável pelo personagem do jogo. Nesta classe trata-se do movimento do jogador (horizontal, vertical, se está no ar, etc.), da hitbox, das animações do personagem, das físicas (ex: cair, saltar)
+
+
