@@ -1,0 +1,234 @@
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Fonts\Hud.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\0.txt
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\1.txt
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\2.txt
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_died.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_lose.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_win.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\ExitReached.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\GemCollected.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\MonsterKilled.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.ogg
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerFall.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerJump.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerKilled.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Powerup.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Gem.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Die.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Idle.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Jump.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Run.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\VirtualControlArrow.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA0.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA1.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA2.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA3.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA4.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA5.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA6.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB0.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB1.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Exit.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Platform.xnb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.exe
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.deps.json
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.runtimeconfig.json
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.pdb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CopyComplete
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\refint\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\MonoGame.Samples-3.8.1\MonoGame.Samples-3.8.1\Platformer2D\Platformer2D.DesktopGL\obj\Debug\net6.0\ref\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\0.txt
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\1.txt
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\2.txt
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Fonts\Hud.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_died.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_lose.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_win.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\ExitReached.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\GemCollected.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\MonsterKilled.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.ogg
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerFall.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerJump.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerKilled.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Powerup.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Gem.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Die.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Idle.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Jump.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Run.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\VirtualControlArrow.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA0.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA1.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA2.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA3.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA4.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA5.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA6.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB0.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB1.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Exit.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Platform.xnb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.exe
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.deps.json
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.runtimeconfig.json
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.pdb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\refint\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Trabalho Tenicas\Platformer2D.DesktopGL\obj\Debug\net6.0\ref\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\0.txt
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\1.txt
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Levels\2.txt
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Fonts\Hud.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_died.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_lose.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Overlays\you_win.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\ExitReached.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\GemCollected.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\MonsterKilled.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.ogg
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Music.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerFall.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerJump.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\PlayerKilled.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sounds\Powerup.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Gem.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Die.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Idle.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Jump.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\Player\Run.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Sprites\VirtualControlArrow.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA0.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA1.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA2.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA3.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA4.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA5.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockA6.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB0.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\BlockB1.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Exit.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Content\Tiles\Platform.xnb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.exe
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.deps.json
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.runtimeconfig.json
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\bin\Debug\net6.0\Platformer2D.Core.pdb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.csproj.CopyComplete
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\refint\Platformer2D.DesktopGL.dll
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.pdb
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\Platformer2D.DesktopGL.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\TrabalhoTecnicas\Platformer2D.DesktopGL\obj\Debug\net6.0\ref\Platformer2D.DesktopGL.dll
