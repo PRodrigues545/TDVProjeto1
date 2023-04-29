@@ -53,5 +53,8 @@ Classe responsável pelo personagem do jogo. Nesta classe trata-se do movimento 
 O método HandleCollisions detecta e resolve todas as colisões entre o jogador e a vizinhança. Quando é detectada uma colisão, o jogador é afastado ao longo de um eixo para evitar a sobreposição. Existe alguma lógica especial para o eixo Y para lidar com plataformas que se comportam de forma diferente dependendo da direção do movimento.
 
 O método DoJump calcula a velocidade Y para saltar e anima em conformidade.
-
 Durante a acentuação de um salto, a velocidade Y é completamente anulada por uma curva de potência. Durante a descida, a gravidade toma conta. A velocidade do salto é controlada pelo campo jumpTime que mede o tempo na acentuação do salto actual.
+
+O método GetInput obtém os comandos de movimento horizontal e de salto do jogador a partir dos inputs.
+
+O método LoadContent carrega o sprite sheet e os sons do jogador.
