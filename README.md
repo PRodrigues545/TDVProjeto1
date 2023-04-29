@@ -57,4 +57,14 @@ Durante a acentuação de um salto, a velocidade Y é completamente anulada por 
 
 O método GetInput obtém os comandos de movimento horizontal e de salto do jogador a partir dos inputs.
 
-O método LoadContent carrega o sprite sheet e os sons do jogador.
+O método LoadContent carrega o sprite sheet e os sons do personagem.
+
+### Enemy.cs
+
+Classe responsável pelo inimigo presente no nível 2
+
+O método LoadContent carrega o sprite sheet e os sons do iniimgo.
+
+O método Draw desenha o inimigo.
+
+O método Update é responsáel pelo movimento do inimigo, que caminha para trás e para a frente ao longo de uma plataforma, esperando em cada extremidade.
