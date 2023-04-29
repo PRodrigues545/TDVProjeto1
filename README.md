@@ -31,7 +31,7 @@ O jogo é actualizado utilizando PlatformerGame.Update e Level.Update. Se o joga
 O ecrã de jogo é desenhado utilizando o método PlatformerGame.Draw. Este método, por sua vez, chama Level.Draw e PlatformerGame.DrawHud.
 O método Level.Draw é responsável por desenhar os tiles, a personagem do jogador, as pedras preciosas e os inimigos, através de chamadas ao método Draw de cada um dos objectos de jogo mencionados anteriormente.
 
-## Aprofundamento de cada classe:
+## Aprofundamento de algumas classe:
 ### PlatformerGame.cs
 
 Este é a classe principal do jogo
@@ -68,3 +68,38 @@ O método LoadContent carrega o sprite sheet e os sons do iniimgo.
 O método Draw desenha o inimigo.
 
 O método Update é responsáel pelo movimento do inimigo, que caminha para trás e para a frente ao longo de uma plataforma, esperando em cada extremidade.
+
+### Gem.cs
+
+Classe responsável pelas joias que podemos apanhar durante o jogo (aumentam o score).
+
+O método LoadContent carrega a textura da joia e o som quando esta é coletada.
+
+O método OnCollected é chamado quando uma jóia é recolhida pelo jogador e removida do nível.
+
+O método Draw desenha a joia com a cor apropriada.
+
+### Level.cs
+
+Classe responsável por desenhar os niveis
+
+O método LoadTiles carrega os tiles do arquivo de estrutura e carrega a sua aparência e comportamento.
+
+O método LoadGemTile instancia uma joia e coloca-a no nível.
+
+O método LoadEnemyTile instancia um inimigo e coloca-o no nível
+
+O método LoadStartTile instancia um jogador, coloca-o no nível e lembra-se de onde o colocar quando for ressuscitado.
+
+O método LoadTile carrega o aspecto e o comportamento de um tile individual.
+
+O método GetCollision obtém o modo de colisão do tile numa determinada localização.
+Este método lida com os tiles fora dos limites do nível, tornando impossível escapar para além das bordas esquerda ou direita, mas permitindo que se salte  para além do topo do nível e cair no fundo.
+
+O método GetBounds obtém o rectângulo de delimitação de um tile no espaço do mundo.
+
+O método Update atualiza todos os objectos no mundo, executa a colisão entre eles e trata do limite de tempo com pontuação.
+
+O método UpdateGems anima cada jóia e verifica se o jogador pode recolhê-las.
+
+O método UpdateEnemies Anima cada inimigo e permite-lhes matar o jogador.
