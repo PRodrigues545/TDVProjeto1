@@ -1,6 +1,8 @@
 # TDVProjeto1
 
 # Grupo
+Eduardo Costa 25969
+
 Filipe Araújo 25981
 
 Pedro Rodrigues 25982
